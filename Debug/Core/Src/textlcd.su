@@ -1,0 +1,14 @@
+textlcd.c:21:6:dataportDirectionOut	40	static
+textlcd.c:41:5:IsBusy	16	static
+textlcd.c:56:6:writeDataPort	24	static
+textlcd.c:67:5:writeCmd	16	static
+textlcd.c:81:5:setDDRAMAddr	24	static
+textlcd.c:99:5:displayMode	32	static
+textlcd.c:112:5:writeCh	16	static
+textlcd.c:125:5:setCursorMode	24	static
+textlcd.c:136:5:functionSet	16	static
+textlcd.c:143:5:writeStr	24	static
+textlcd.c:158:5:clearScreen	24	static
+textlcd.c:185:5:initlcd	8	static
+textlcd.c:193:6:TextlcdInit	8	static
+textlcd.c:198:5:writeTextLine	40	static
