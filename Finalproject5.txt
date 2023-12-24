@@ -1,0 +1,100 @@
+Configuration	Finalproject5
+STM32CubeMX 	6.2.1
+Date	12/22/2023
+MCU	STM32F407VGTx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+7	PC13-ANTI_TAMP	GPIO_Input	
+8	PC14-OSC32_IN	GPIO_Input	
+9	PC15-OSC32_OUT	GPIO_Input	
+15	PC0	GPIO_Input	
+16	PC1	GPIO_Input	
+17	PC2	GPIO_Input	
+18	PC3	GPIO_Input	
+33	PC4	GPIO_Input	
+34	PC5	GPIO_Input	
+55	PD8	GPIO_Output	
+56	PD9	GPIO_Output	
+57	PD10	GPIO_Output	
+63	PC6	GPIO_Input	
+64	PC7	GPIO_Input	
+65	PC8	GPIO_Input	
+66	PC9	GPIO_Input	
+78	PC10	GPIO_Input	
+79	PC11	GPIO_Input	
+80	PC12	GPIO_Input	
+81	PD0	GPIO_Output	
+82	PD1	GPIO_Output	
+83	PD2	GPIO_Output	
+84	PD3	GPIO_Output	
+85	PD4	GPIO_Output	
+86	PD5	GPIO_Output	
+87	PD6	GPIO_Output	
+88	PD7	GPIO_Output	
+PERIPHERALS	MODES	FUNCTIONS	PINS
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+7	PC13-ANTI_TAMP	GPIO_Input	
+8	PC14-OSC32_IN	GPIO_Input	
+9	PC15-OSC32_OUT	GPIO_Input	
+15	PC0	GPIO_Input	
+16	PC1	GPIO_Input	
+17	PC2	GPIO_Input	
+18	PC3	GPIO_Input	
+33	PC4	GPIO_Input	
+34	PC5	GPIO_Input	
+55	PD8	GPIO_Output	
+56	PD9	GPIO_Output	
+57	PD10	GPIO_Output	
+63	PC6	GPIO_Input	
+64	PC7	GPIO_Input	
+65	PC8	GPIO_Input	
+66	PC9	GPIO_Input	
+78	PC10	GPIO_Input	
+79	PC11	GPIO_Input	
+80	PC12	GPIO_Input	
+81	PD0	GPIO_Output	
+82	PD1	GPIO_Output	
+83	PD2	GPIO_Output	
+84	PD3	GPIO_Output	
+85	PD4	GPIO_Output	
+86	PD5	GPIO_Output	
+87	PD6	GPIO_Output	
+88	PD7	GPIO_Output	
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : Finalproject5
+Project Folder : C:\Users\acj00\Desktop\cortexM4\cortexM4\Finalproject5\Finalproject5
+Toolchain / IDE : STM32CubeIDE
+Firmware Package Name and Version : STM32Cube FW_F4 V1.26.2
+
+
+Code Generation Settings : 
+STM32Cube MCU packages and embedded software packs : Copy only the necessary library files
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : 
+
+
+
+
+
